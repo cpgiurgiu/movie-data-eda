@@ -1,5 +1,5 @@
 
-# Microsoft Movie Studio
+# EDA Project
 
 
 ## Overview
